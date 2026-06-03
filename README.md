@@ -36,6 +36,6 @@ The application provides a secure and efficient way to manage customer bank acco
 
 ## Author
 
-Kirti Singh
+Kirti rajput
 
 
